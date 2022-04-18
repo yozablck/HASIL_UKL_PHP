@@ -1,0 +1,14 @@
+/*Lunatic Midnight color scheme*/
+
+:root{
+    --main-bg-color: #bd1c1c;
+    --white-color: #fff;
+    --dropdown-bg-color: #bd1c1c;
+    --transparent-color : rgba(1, 1, 1, 0)
+    --allert-color: tomato;
+    --text-color: rgb(219, 222, 235);
+    --color-hover: #14efff;
+    --login-button-active-color: #ff123a;
+    --lunatic-color:#3ae96f;
+
+}
